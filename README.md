@@ -1,6 +1,6 @@
 # Image Tagger
 
-Image Tagger provides an easy way to manage and organize your photos. 
+Image Tagger is a simple image management software and provides an easy way to manage and organize your photos. 
 
 UI made with JavaFX and SceneBuilder. Implements MVC and Observer design patterns as well as multiple SOLID OOP principles.
 
