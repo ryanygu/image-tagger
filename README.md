@@ -1,6 +1,8 @@
 # Image Tagger
 
-Image Tagger provides an easy way to manage and organize your photos.
+Image Tagger provides an easy way to manage and organize your photos. 
+
+UI made with JavaFX and SceneBuilder. Implements MVC and Observer design patterns as well as multiple SOLID OOP principles.
 
 ### Usage
 
@@ -8,11 +10,11 @@ Download and open our application through the IDE of your choice. Run ```TagsVie
 
 ### Features
 
-Update images with tags through our GUI. These tags are helpful for sorting and searching images.
-
-GUI made with JavaFX and SceneBuilder.
-
-Implements MVC and Observer design patterns as well as multiple SOLID principles of OOP.
+- Create and delete tags
+- Tag an image with an existing tag
+- Remove an existing tag from an image
+- Search for all images tagged with a certain tag
+- Collect all images with a certain tag and place them in a new directory
 
 ### Todo
 
