@@ -1,6 +1,22 @@
-# image-tagging-application
-Tags images in users computer starting at specified root directory.
-Allows users to select root directory and view all images in the system or images under the given directory.
-Can apply tags to images for easier sorting and searching, can delete and add tags easily using intuitive GUI.
-GUI made using JavaFX and SceneBuilder.
-Implements MVC and Observer Design Patterns as well as multiple SOLID Principles of OOP.
+# Image Tagger
+
+Image Tagger provides an easy way to manage and organize your photos.
+
+### Usage
+
+Download and open our application through the IDE of your choice. Run ```TagsView.java```.
+
+### Features
+
+Update images with tags through our GUI. These tags are helpful for sorting and searching images.
+
+GUI made with JavaFX and SceneBuilder.
+
+Implements MVC and Observer design patterns as well as multiple SOLID principles of OOP.
+
+### Todo
+
+- Bug: serialization not working
+- Bug: issues with choosing root directory
+- Update UI
+
