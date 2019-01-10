@@ -6,7 +6,7 @@ UI made with JavaFX and SceneBuilder. Implements MVC and Observer design pattern
 
 ### Usage
 
-Download and open our application through the IDE of your choice. Run ```TagsView.java```.
+Download and open the source files through an IDE of your choice. Run ```TagsView.java```.
 
 ### Features
 
