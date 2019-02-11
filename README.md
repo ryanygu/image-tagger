@@ -19,6 +19,6 @@ Download and open the source files through an IDE of your choice. Run ```TagsVie
 ### Todo
 
 - Bug: serialization not working
-- Bug: issues with choosing root directory
+- Bug: edge case issues with choosing root directory
 - Update UI
 
